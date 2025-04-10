@@ -1,0 +1,15 @@
+{	
+	"fonts": [  
+        {
+            "aifont": "Quicksand-Regular",
+            "family": "Quicksand",
+            "weight": "400",
+            "style": ""
+        },
+        {
+            "aifont": "Quicksand-Medium",
+            "family": "Quicksand",
+            "weight": "500",
+            "style": ""
+        }]
+}
